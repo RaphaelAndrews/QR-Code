@@ -18,3 +18,4 @@ Essa é a minha solução para o desagio do Frontendmentor.io - QR code componen
 ## Author
 
 - LinkedIn - [Raphael Andrews](https://www.linkedin.com/in/raphael-andrews/)
+...
