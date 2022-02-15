@@ -4,7 +4,7 @@
 
 ## Olá! 👋
 
-Essa é a minha solução para o desagio do Frontendmentor.io - QR code component.
+Essa é a minha solução para o desafio do Frontendmentor.io - QR code component.
 
 [Link do desafio](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
 ## Construído com
